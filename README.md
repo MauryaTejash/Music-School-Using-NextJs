@@ -6,31 +6,28 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+# Some Glimpse Of this project
+# Hero Section
+![h1](https://github.com/MauryaTejash/Music-School-Using-NextJs/assets/93006244/5a897ac5-3f60-4351-bab2-b23851f501ba)
+# Some Card with proper Hover Effects
+![h2](https://github.com/MauryaTejash/Music-School-Using-NextJs/assets/93006244/cc540171-ad81-4744-9c63-61e6240bcb77)
+# Cards With the hover effets
+![h3](https://github.com/MauryaTejash/Music-School-Using-NextJs/assets/93006244/274d051a-95cc-4f54-a174-7ffd6a57a2db)
+# Wavy Background 
+![h4](https://github.com/MauryaTejash/Music-School-Using-NextJs/assets/93006244/bc142825-953b-48c6-b72d-d86d923c21c2)
+# Card with 3D effects
+![h5](https://github.com/MauryaTejash/Music-School-Using-NextJs/assets/93006244/3421111b-7014-4d2b-be51-acd65863f884)
+# Contact Us section
+![h6](https://github.com/MauryaTejash/Music-School-Using-NextJs/assets/93006244/aed4a6c6-5bdf-47ca-ac4c-157987e130ae)
+# SignUp form
+![h7](https://github.com/MauryaTejash/Music-School-Using-NextJs/assets/93006244/c446c9f7-833f-440e-aa1a-00e82eb7919c)
+
+
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# Thanks For Visiting If U Like Then provide the "Star" to this project.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
